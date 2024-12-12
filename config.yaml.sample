@@ -1,0 +1,4 @@
+output-dir: /home/emily/backups
+timestamp-format: YYYY-MM-dd_HHmm
+discovery_timeout_ms: 1000
+discord-webhook: https://discord.com/api/webhooks/example/webhook
